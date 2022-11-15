@@ -3,26 +3,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" />
 </p>
-
-<p align="center">
-  <img src="https://imgur.com/eTIxG7c.gif">
-</p>
-
----
-**__Hello, you've been welcomed to Astra Bots!__**
-> This server is mostly for discord bots and servers and is dependent on advertising. You may also talk, relax, and listen to music while testing various discord bots and servers and voting for your favorites.
-
-:sunglasses: **Do you have a strong ego?** Promote your Discord bots and servers and receive the most valuable statistic of all individuals.
-:shield: **Tired of Power Abusing Staff?** We have active moderators and staff members that are eager to assist with any difficulty, regardless of the cause.
-:link: **Are you searching for a place to promote your projects?** We have a variety of features available to you, and we are gradually but steadily introducing new ones.
-:pensive: **Are You Bored?** We have several discord bots on our server that you may test, but you can also get the highest ranking on our server by being a nice and active member.
-
-```diff
--DISCLAIMER
-If you have any questions about the information provided above, please do not hesitate to inquire. Before you join the server, think about why you want to be there.
-```
-Join https://discord.gg/sQQFSnQhdt and put an end to your missed opportunities.
-
 ---
 
 <p align="left">
