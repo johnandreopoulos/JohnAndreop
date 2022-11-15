@@ -8,12 +8,6 @@
   <img src="https://imgur.com/eTIxG7c.gif">
 </p>
 
-- 🔭 I’m currently working on [Astrabots.xyz](https://astrabots.xyz)
-
-- 👯 I’m looking to collaborate on [Astrabots.xyz](https://astrabots.xyz)
-
-- 🤝 I’m looking for help with [Astrabots.xyz](https://astrabots.xyz)
-
 ---
 **__Hello, you've been welcomed to Astra Bots!__**
 > This server is mostly for discord bots and servers and is dependent on advertising. You may also talk, relax, and listen to music while testing various discord bots and servers and voting for your favorites.
