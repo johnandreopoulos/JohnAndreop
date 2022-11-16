@@ -3,6 +3,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" />
 </p>
+
 ---
 
 <p align="left">
