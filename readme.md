@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Andreop</h1>
 <p align="center"> 
    Visitor count<br>
-   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" />
+   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" /><br>
+   <img src="https://imgur.com/ATHWqvC.gif" />
 </p>
 ---
 <p align="left"></p>
