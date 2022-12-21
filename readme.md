@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Andreop</h1>
+<h1 align="center">Hi 👋, I'm John Andreopoulos</h1>
 <p align="center"> 
    Visitor count<br>
    <img src="https://profile-counter.glitch.me/johnandreop/count.svg" /><br>
