@@ -33,3 +33,12 @@ As I continue to grow and develop as a professional, I am eager to take on new p
 ![](https://github-readme-stats.vercel.app/api?username=JohnAndreop&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnAndreop&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAndreop&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JohnAndreop&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luckytarget) 
